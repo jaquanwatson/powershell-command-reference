@@ -1,0 +1,8 @@
+*.ps1~
+*.psm1~
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.vscode/
+.env
