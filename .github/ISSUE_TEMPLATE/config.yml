@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Jaquan Watson
+    url: mailto:jqwatson96@gmail.com
+    about: Contact the maintainer directly for urgent issues or support requests
+  - name: Documentation
+    url: https://github.com/jaquanwatson/powershell-command-reference#readme
+    about: Check the documentation for usage instructions and examples
+  - name: PowerShell Documentation
+    url: https://docs.microsoft.com/en-us/powershell/
+    about: Official PowerShell documentation for reference
